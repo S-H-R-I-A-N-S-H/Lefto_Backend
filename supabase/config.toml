@@ -1,0 +1,7 @@
+project_id = "pllvcfgsbowubifvossb"
+
+[functions.simulate-tick]
+verify_jwt = false
+
+[functions.ingest-restaurant-data]
+verify_jwt = false
